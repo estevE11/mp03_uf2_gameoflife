@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfb56b3d-2064-4196-a9e7-56a6e45113d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YZqW3wTHgbjq1Whamz7lg1nKfs" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mcp" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="R:\dev\java\mp03_uf2_gameoflife\src\cat\esteve\gol" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="R:\dev\java\mp03_uf2_gameoflife\src\cat\esteve\gol" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.esteve.gol.Start" />
+      <module name="mp03_uf2_gameoflife" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cat.esteve.gol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfb56b3d-2064-4196-a9e7-56a6e45113d1" name="Default Changelist" comment="" />
+      <created>1583160492891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583160492891</updated>
+      <workItem from="1583160494223" duration="3689000" />
+      <workItem from="1583166136411" duration="1359000" />
+      <workItem from="1583219538243" duration="13928000" />
+      <workItem from="1583247934057" duration="3684000" />
+      <workItem from="1583253148074" duration="441000" />
+      <workItem from="1583254243316" duration="27000" />
+      <workItem from="1583445564111" duration="1936000" />
+      <workItem from="1583490330804" duration="121000" />
+      <workItem from="1583510887530" duration="2262000" />
+      <workItem from="1583801204181" duration="20000" />
+      <workItem from="1583862329000" duration="426000" />
+      <workItem from="1583868290472" duration="122000" />
+      <workItem from="1584656931288" duration="405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
